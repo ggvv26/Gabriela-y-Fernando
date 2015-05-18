@@ -819,7 +819,7 @@ h6 {
 	
 	#thebrideside h5{
 		font-family: 'Cinzel',serif;
-		text-align: center;
+		text-align: justify;
 		font-size: 20px;
 		color: #818181;
 		line-height: 22px;
@@ -827,7 +827,7 @@ h6 {
 	}
 
 	#thebrideside .bridemom, #thebrideside .bridedad, #thebrideside .thebride, .bridesmaid {
-		padding: 40px;
+		padding: 80px;
 	}
 	
 	#thebrideside .col-md-4.thebride{
