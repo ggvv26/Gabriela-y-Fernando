@@ -10,6 +10,20 @@
 
 html {height: 100%!important; min-height: 100%!important;}
 
+FLGLeft1 { 
+  background-color: white; 
+  border: black 1px solid; 
+  position: relative; 
+  right: 20px;
+}
+
+FLGleft2 { 
+  background-color: white; 
+  border: black 1px solid; 
+  position: relative; 
+  right: 60px;
+}
+
 body {
 	font-size: 16px;
 	color: #696262;
